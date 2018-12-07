@@ -1,6 +1,6 @@
 token=process.env.token
-owner=354716386716811264
-prefix==
-game=Alpha Bots!
+owner=283355378811666435
+prefix=Na
+game=Naplay
 stayinchannel=true
 songinstatus=true
